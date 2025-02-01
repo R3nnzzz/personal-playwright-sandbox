@@ -1,1 +1,1 @@
-# git-repo sample
+# git-repo samples
